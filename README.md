@@ -12,10 +12,17 @@ The task involved:
 - Delivering a professional report with justifications and results.
 
 ## 📂 Structure
-├── Processed Dataset/ # Cleaned datasets used in training
-├── Raw Datasets/ # Original datasets (NOTE: not all included due to size)
-├── ML - Final Exam - Python Code - Brian Rohde and Enrico Manfron.ipynb
-├── ML - Final Exam - Report - Brian Rohde and Enrico Manfron.pdf
+```
+📁 Processed Dataset/  
+    └── Cleaned CSVs used during training
+
+📁 Raw Datasets/  
+    └── [Note: Full transaction file omitted due to >1GB size]
+
+📄 ML - Final Exam - Python Code - Brian Rohde and Enrico Manfron.ipynb  
+📄 ML - Final Exam - Report - Brian Rohde and Enrico Manfron.pdf
+```
+
 
 ⚠️ **Note:** The full raw dataset (1GB+) could not be uploaded to GitHub due to size limitations.
 
